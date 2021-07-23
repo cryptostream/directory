@@ -1,9 +1,9 @@
 ---
 title: Uniswap
 url: https://uniswap.exchange
-description: >
-  A fully decentralized protocol for automated liquidity provision on Ethereum.
+description: A fully decentralized protocol for automated liquidity provision on Ethereum.
+keywords: defi, liquidity, automated market maker, dex, decentralized exchange
+metadata: >
   UNI is a governance token issued by the decentralized cryptocurrency exchange Uniswap. This is an automatic market maker working on the basis of smart contracts that create a liquidity pool for ERC20 tokens and implement the algorithm without using the orderbook. The official upgrade to Uniswap V2 took place in May 2020. The launch period coincided with the popularity of the yield farming that also contributed to the bigger popularity of the exchange.
   Uniswap token platform
   The launch of the platform took place in November 2018 by Hayden Adams who developed the service being inspired by the article published by Vitalik Buterin a year earlier. After contributing to a Uniswap liquidity pool, users get a pool token that also belongs to the group of ERC20 tokens. They have the same properties as other ERC20 tokens allowing users to exchange and sell them. It’s possible to use them in other dApps as well. Each token is a tiny share of the liquidity pool with a trading fee of 0.3% included. As soon as holders of these tokens reclaim their funds, these tokens get burned.
-keywords: defi, liquidity, automated market maker, dex, decentralized exchange

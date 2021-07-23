@@ -4,11 +4,11 @@ Manually curated directory of web3 websites used to power [noseep](https://nosee
 
 ## Template
 
-```json
-{
-  "title": "",
-  "url": "",
-  "description": "",
-  "keywords": ""
-}
+```yml
+---
+title: ""
+url: ""
+description: ""
+keywords: ""
+metadata: ""
 ```

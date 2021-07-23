@@ -1,6 +1,7 @@
-{
-  "title": "Ribbon",
-  "url": "https://ribbon.finance/",
-  "description": "Ribbon Finance is the first crypto structured products protocol on Ethereum. Use Theta Vault to earn yield on BTC & ETH.",
-  "keywords": "defi, yield"
-}
+---
+title: Ribbon
+url: https://ribbon.finance/
+description: >
+  Ribbon Finance is the first crypto structured products protocol on Ethereum.
+  Use Theta Vault to earn yield on BTC & ETH.
+keywords: defi, yield

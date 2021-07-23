@@ -2,7 +2,9 @@
 title: Arweave
 url: https://www.arweave.org
 description: >
+  arweave is a global, permanent hard drive built on two novel technologies: the blockweave, a derivative of the blockchain, and proof of access, a custom incentivised proof of work algorithm.
+keywords: storage, permanent
+metadata: >
   Arweave token (AR) is a utility token of the decentralized platform with the same name that employs the Proof of Access protocol designed to deliver persistent, scalable storage. It is not an ERC20 token as it resides on its own blockchain. The information technology and on-chain data storage techniques employed by the project provide unparalleled levels of data replication thus solving the common problem encountered by many blockchains. The company behind the project is a London-based entity that was founded in July 2017 by Sam Williams and Williams Jones.
   The goal of the Arweave protocol
   The problem of handling the petabytes of data has become rather acute nowadays. Exponential amounts of data should be stored somewhere and this blockchain has come up with a new solution. The goal of the project is to create a global, permanent blockchain-based hard drive to develop a decentralized, high bandwidth, uncensored, and immutable low-cost storage. It’s possible to make content immune to censorship or failure of any kind thanks to this technology. With Arweave’s solution called permaweb no dead links will be met on the web anymore.
-keywords: storage, permanent
