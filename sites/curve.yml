@@ -1,6 +1,9 @@
-{
-  "title": "Curve Swaps",
-  "url": "https://crv.to",
-  "description": "Curve Swaps is a DEX that allows you to create stable coins liquidity pools with your own tokens.",
-  "keywords": "dex, swap"
-}
+---
+title: Curve Swaps
+url: https://crv.to
+description: >
+  Curve Finance is a decentralized platform, liquidity aggregator, and automatic market maker that was founded on Ethereum. Initially designed for stablecoin trading, the facility is a leader among the competitors in this sphere. The platform is irreplaceable when large amounts of stablecoins should be swapped.
+  Curve Finance platform doesn’t deal with an order book and is regulated by the automated pricing mechanism. Curve Finance used to be the engine of well-known decentralized aggregator yearn.finance. But then it launched its governance token CRV and started developing independently.
+  The history of creation
+  The founder of the platform, Shachar Bialick, has long been interested in different decentralized protocols and studied different concepts. Uniswap didn’t seem interesting for the specialist and he started developing his own protocol in 2018. He was planning to launch DEX StableSwap and even published a whitepaper in 2019, but then changed the name to Curve Finance. In May 2020 the company released a token and turned into DAO. The transition to this form of organization was performed to avoid legal issues.
+keywords: dex, swap

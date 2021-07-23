@@ -1,6 +1,13 @@
-{
-  "title": "Sushi",
-  "url": "https://sushi.com",
-  "description": "Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform. Welcome home to DeFi.",
-  "keywords": "Swap, earn, yield, lend, borrow, leverage"
-}
+---
+title: Sushi
+url: https://sushi.com
+description: >
+  Swap, earn, stack yields, lend, borrow, leverage all on one decentralized,
+  community driven platform. Welcome home to DeFi.
+  SushiSwap is a clear-cut example of the so-called AMM. This abbreviation stands for the automated market maker, a decentralized exchange (DEX) which is able to create a market for any pair of tokens.
+  Launched on August 28, 2020, as a UniSwap’s hard fork on Ethereum blockchain it immediately conquered the crypto world with 1.4 billion USD market capitalization dragged from UniSwap.
+  SushiSwap added some new features to the usual AMM model of decentralized exchange such as revenue-sharing, larger rewarding pools and therefore higher rewards for participants, and development based on community decisions. But the main advantages are the in-house token SUSHI adding and handing total control to its holders. SushiSwap’s aim is to change the AMM market increasing the users’ influence on its development.
+  Sushiswap Ecosystem
+  The ecosystem of the project includes some products that serve different purposes. These are the Exchange, Liquidity Pools, SushiBar Staking, and Farms.
+  Exchange. The SushiSwap exchange allows users to swap any ERC20 tokens, which are staked in liquidity pools. When users make trades, a 0.3% fee is charged.
+keywords: Swap, earn, yield, lend, borrow, leverage
